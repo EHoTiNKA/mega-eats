@@ -51,6 +51,24 @@ const MainBody = () => {
             text1="₽ • Европейская"
             text2="30 - 40 мин"
           />
+          <MainCard
+            poster={Eda2}
+            name="Bar BQ Cafe — Манежная"
+            text1="₽ • Европейская"
+            text2="30 - 40 мин"
+          />
+          <MainCard
+            poster={Eda2}
+            name="Bar BQ Cafe — Манежная"
+            text1="₽ • Европейская"
+            text2="30 - 40 мин"
+          />
+          <MainCard
+            poster={Eda2}
+            name="Bar BQ Cafe — Манежная"
+            text1="₽ • Европейская"
+            text2="30 - 40 мин"
+          />
         </div>
       </ContentColumn>
     </div>
